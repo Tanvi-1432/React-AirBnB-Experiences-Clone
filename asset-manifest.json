@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-AirBnB-Experiences-Clone/static/css/main.61b88cf4.css",
+    "main.js": "/React-AirBnB-Experiences-Clone/static/js/main.af2333e1.js",
+    "static/media/photo-grid.png": "/React-AirBnB-Experiences-Clone/static/media/photo-grid.fdd7af93cbec28bb0c50.png",
+    "static/media/card-1.png": "/React-AirBnB-Experiences-Clone/static/media/card-1.f19e9cfb0523f0295be4.png",
+    "index.html": "/React-AirBnB-Experiences-Clone/index.html",
+    "main.61b88cf4.css.map": "/React-AirBnB-Experiences-Clone/static/css/main.61b88cf4.css.map",
+    "main.af2333e1.js.map": "/React-AirBnB-Experiences-Clone/static/js/main.af2333e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61b88cf4.css",
+    "static/js/main.af2333e1.js"
+  ]
+}
